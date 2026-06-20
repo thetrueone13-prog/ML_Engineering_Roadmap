@@ -1,31 +1,31 @@
 # Big-Tech-Level ML Engineer / Data Scientist Roadmap
-### (No-Buffer Edition: 5 hrs/day ML + 3 hrs/day DSA, 7 days/week)
+### (No-Buffer Edition: 5 hrs/day ML + 3 hrs/day DSA, 6 days/week)
 
-**Schedule:** 8 hrs/day, **7 days/week = 56 hrs/week** (35 ML + 21 DSA)
+**Schedule:** 8 hrs/day, **6 days/week = 48 hrs/week** (30 ML + 18 DSA). Sunday is a rest day.
 **Total roadmap content:** 1,580 hours (unchanged)
-**Total time: ~38.3 weeks (~8.8 months) of study.**
-**Calendar time = study time.** No exams, no breaks, no off-weeks, no buffer — so the pure-study number *is* the finish date. ~38.3 weeks start to finish.
+**Total time: ~44.7 weeks (~10.3 months) of study.**
+**Calendar time = study time.** No exams, no breaks, no off-weeks, no buffer — so the pure-study number *is* the finish date. ~44.7 weeks start to finish, with Sundays off the whole way.
 
 ---
 
-## Why This Isn't Just "1580 ÷ 56"
+## Why This Isn't Just "1580 ÷ 48"
 
 The content splits into two genuinely separate tracks that run **in parallel**, not sequentially — so the math isn't a single division. Each day you're running two unrelated curricula side by side: ML/DS knowledge in one block, interview coding in the other.
 
 | Track | What's In It | Total Hours | Daily Rate | Weekly Rate | Track Duration |
 |---|---|---:|---|---:|---:|
-| **ML/DS Track** | Phases 0,1,2,4,5,6,7,8,9,10,11, and the non-DSA parts of Phase 12 | 1,340 hrs | 5 hrs/day | 35 hrs/wk | **38.3 weeks** |
-| **DSA Track** | Phase 3 (core DSA) + the "DSA Mock Interviews" topic from Phase 12 | 240 hrs | 3 hrs/day | 21 hrs/wk | **11.4 weeks** |
+| **ML/DS Track** | Phases 0,1,2,4,5,6,7,8,9,10,11, and the non-DSA parts of Phase 12 | 1,340 hrs | 5 hrs/day | 30 hrs/wk | **44.7 weeks** |
+| **DSA Track** | Phase 3 (core DSA) + the "DSA Mock Interviews" topic from Phase 12 | 240 hrs | 3 hrs/day | 18 hrs/wk | **13.3 weeks** |
 
-**The ML track is the bottleneck.** DSA's total volume (240 hrs) only takes 11.4 weeks at 3 hrs/day — far less than the 38.3 weeks the ML track needs. That's good news: DSA doesn't need to occupy all 3 daily hours for the entire run. Here's the realistic way to use that:
+**The ML track is the bottleneck.** DSA's total volume (240 hrs) only takes 13.3 weeks at 3 hrs/day — far less than the 44.7 weeks the ML track needs. That's good news: DSA doesn't need to occupy all 3 daily hours for the entire run. Here's the realistic way to use that:
 
-1. **Weeks 1–9.5:** Run the full 200-hour core DSA curriculum (Data Structures → Patterns → Practice) at the full 3 hrs/day, in parallel with ML Phases 0→1→2 and the start of Phase 4. This is when DSA fluency gets built.
-2. **Weeks ~9.5–36:** Core DSA is done. Drop to **light maintenance mode** — 3–5 problems a week (not 3 hrs/day) just to stay sharp — freeing up real bandwidth. Either (a) keep it light, or (b) reallocate that freed time straight into the ML track to finish faster (see floor estimate below).
-3. **Final ~2 weeks (overlapping with ML Phase 12):** Ramp DSA back to full 3 hrs/day for the 40-hour "DSA Mock Interviews" block — timed, interview-condition practice right before you start applying, which is exactly when it matters most.
+1. **Weeks 1–11ish:** Run the full 200-hour core DSA curriculum (Data Structures → Patterns → Practice) at the full 3 hrs/day, in parallel with ML Phases 0→1→2 and the start of Phase 4. This is when DSA fluency gets built.
+2. **Weeks ~11–42:** Core DSA is done. Drop to **light maintenance mode** — 3–5 problems a week (not 3 hrs/day) just to stay sharp — freeing up real bandwidth. Either (a) keep it light, or (b) reallocate that freed time straight into the ML track to finish faster (see floor estimate below).
+3. **Final ~2–3 weeks (overlapping with ML Phase 12):** Ramp DSA back to full 3 hrs/day for the 40-hour "DSA Mock Interviews" block — timed, interview-condition practice right before you start applying, which is exactly when it matters most.
 
 This mirrors the original roadmap's advice to avoid DSA as "one isolated block," just now formalized around your fixed daily split.
 
-**The reallocation floor:** if every one of the 56 weekly hours were perfectly fungible, the whole thing collapses to 1,580 ÷ 56 = ~28.2 weeks. It isn't perfectly fungible (DSA practice has to be *spread out* to work — you can't cram 200 hours into three weeks and retain it), so the realistic stretch outcome if you pour DSA's freed maintenance hours into ML is **~30–32 weeks (~7 months)**. Treat that as the aggressive floor, not the baseline.
+**The reallocation floor:** if every one of the 48 weekly hours were perfectly fungible, the whole thing collapses to 1,580 ÷ 48 = ~32.9 weeks. It isn't perfectly fungible (DSA practice has to be *spread out* to work — you can't cram 200 hours into a few weeks and retain it), so the realistic stretch outcome if you pour DSA's freed maintenance hours into ML is **~38–40 weeks (~9 months)**. Treat that as the aggressive floor, not the baseline.
 
 ---
 
@@ -33,9 +33,10 @@ This mirrors the original roadmap's advice to avoid DSA as "one isolated block,"
 
 | Day | ML Block (5 hrs) | DSA Block (3 hrs) |
 |---|---|---|
-| Every day (Mon–Sun) | Whichever ML phase you're currently on | Core DSA (early) → maintenance (mid) → mock interviews (final stretch) |
+| Mon–Sat | Whichever ML phase you're currently on | Core DSA (early) → maintenance (mid) → mock interviews (final stretch) |
+| Sunday | Rest / catch-up | Rest / catch-up |
 
-Block order (morning vs evening) doesn't matter — what matters is treating them as two separate sessions so DSA doesn't get silently dropped once ML feels more "interesting," which is the most common way this kind of plan quietly falls apart. With zero rest days, the *only* slack you have is the maintenance-mode gap — there's no Sunday catch-up to absorb a bad day, so protect the daily count.
+Block order (morning vs evening) doesn't matter — what matters is treating them as two separate sessions so DSA doesn't get silently dropped once ML feels more "interesting," which is the most common way this kind of plan quietly falls apart. Sunday is your only slack — use it to absorb a bad day or genuinely recover, not to silently extend the grind into a 7-day week.
 
 ---
 
@@ -43,23 +44,23 @@ Block order (morning vs evening) doesn't matter — what matters is treating the
 
 | # | Phase | Track | Hours | Calendar Weeks (cumulative) |
 |---|---|---|---:|---|
-| 0 | Python & Tooling Foundations | ML | 70 | 0.0 – 2.0 |
-| 1 | Mathematical Foundations | ML | 140 | 2.0 – 6.0 |
-| 2 | Data Analysis & SQL | ML | 85 | 6.0 – 8.4 |
-| 3 | DSA for Big-Tech Interviews (core) | **DSA** | 200 | 0.0 – 9.5 *(parallel w/ Phases 0–2 + start of 4)* |
-| 4 | Classical Machine Learning | ML | 160 | 8.4 – 13.0 |
-| 5 | Deep Learning Foundations | ML | 140 | 13.0 – 17.0 |
-| 6 | Modern DL / NLP / Generative AI | ML | 150 | 17.0 – 21.3 |
-| 7 | MLOps & Production ML | ML | 105 | 21.3 – 24.3 |
-| 8 | Big Data & Distributed Systems | ML | 85 | 24.3 – 26.7 |
-| 9 | Statistics, A/B Testing & Causal Inference | ML | 70 | 26.7 – 28.7 |
-| 10 | ML System Design | ML | 80 | 28.7 – 31.0 |
-| 11 | Portfolio, Projects & Competitions | ML | 165 | 31.0 – 35.7 |
-| 12 | Interview Prep — ML portion (breadth/depth, system design mocks, behavioral, take-homes) | ML | 90 | 35.7 – 38.3 |
-| 12 | Interview Prep — DSA Mock Interviews | **DSA** | 40 | ~36.4 – 38.3 *(parallel w/ ML Phase 12)* |
-| | **TOTAL** | | **1,580** | **0.0 – 38.3 weeks** |
+| 0 | Python & Tooling Foundations | ML | 70 | 0.0 – 2.3 |
+| 1 | Mathematical Foundations | ML | 140 | 2.3 – 7.0 |
+| 2 | Data Analysis & SQL | ML | 85 | 7.0 – 9.8 |
+| 3 | DSA for Big-Tech Interviews (core) | **DSA** | 200 | 0.0 – 11.1 *(parallel w/ Phases 0–2 + start of 4)* |
+| 4 | Classical Machine Learning | ML | 160 | 9.8 – 15.2 |
+| 5 | Deep Learning Foundations | ML | 140 | 15.2 – 19.8 |
+| 6 | Modern DL / NLP / Generative AI | ML | 150 | 19.8 – 24.8 |
+| 7 | MLOps & Production ML | ML | 105 | 24.8 – 28.3 |
+| 8 | Big Data & Distributed Systems | ML | 85 | 28.3 – 31.2 |
+| 9 | Statistics, A/B Testing & Causal Inference | ML | 70 | 31.2 – 33.5 |
+| 10 | ML System Design | ML | 80 | 33.5 – 36.2 |
+| 11 | Portfolio, Projects & Competitions | ML | 165 | 36.2 – 41.7 |
+| 12 | Interview Prep — ML portion (breadth/depth, system design mocks, behavioral, take-homes) | ML | 90 | 41.7 – 44.7 |
+| 12 | Interview Prep — DSA Mock Interviews | **DSA** | 40 | ~42.5 – 44.7 *(parallel w/ ML Phase 12)* |
+| | **TOTAL** | | **1,580** | **0.0 – 44.7 weeks** |
 
-> The DSA row for Phase 3 and the ML rows all share the same early calendar weeks — they're happening on the same days, just in different daily blocks. Total calendar length is set by the ML track (38.3 weeks), not by adding every row's duration together.
+> The DSA row for Phase 3 and the ML rows all share the same early calendar weeks (0–11.1) — they're happening on the same days, just in different daily blocks. Total calendar length is set by the ML track (44.7 weeks), not by adding every row's duration together.
 
 ---
 
@@ -106,7 +107,7 @@ Block order (morning vs evening) doesn't matter — what matters is treating the
 
 ---
 
-## Phase 3: Data Structures & Algorithms *(DSA Track — runs in parallel, weeks 0–9.5)*
+## Phase 3: Data Structures & Algorithms *(DSA Track — runs in parallel, weeks 0–11.1)*
 **Goal by end of phase:** Pass the coding round at any FAANG-tier company — ML/DS roles at big tech still gate on general software engineering coding ability, not just ML knowledge.
 
 | Topic & Sub-topics | What It Covers | Hours |
@@ -115,7 +116,7 @@ Block order (morning vs evening) doesn't matter — what matters is treating the
 | **Algorithmic Patterns**<br>– dynamic programming, two pointers<br>– sliding window, backtracking<br>– graph traversal (BFS/DFS), greedy | The reusable problem-solving patterns that let you recognize "I've seen this shape before" in a new problem. | 60 |
 | **Deliberate Practice**<br>– 150–200 medium/hard problems<br>– timed mock practice | Volume + repetition under time pressure is what actually builds interview speed, not just understanding concepts. | 80 |
 
-**Phase total: 200 hours** — done at 3 hrs/day, 7 days/week, this finishes in ~9.5 weeks. After this, switch to maintenance mode (a few problems a week) until Phase 12's mock-interview sprint.
+**Phase total: 200 hours** — done at 3 hrs/day, 6 days/week, this finishes in ~11.1 weeks. After this, switch to maintenance mode (a few problems a week) until Phase 12's mock-interview sprint.
 
 ---
 
@@ -248,7 +249,7 @@ Block order (morning vs evening) doesn't matter — what matters is treating the
 | **Behavioral Interview Prep**<br>– STAR method, leadership-principle-style stories | Big tech weighs this heavily — your project experience (PQC research, full-stack systems) gives you strong raw material to shape into stories. | 15 | ML |
 | **Take-Home Assignment Practice**<br>– 1–2 simulated take-homes under time limits | Many big-tech and unicorn companies use take-homes instead of (or alongside) live coding for ML roles. | 15 | ML |
 
-**Phase total: 130 hours** (90 ML + 40 DSA, running concurrently in the final ~2 weeks)
+**Phase total: 130 hours** (90 ML + 40 DSA, running concurrently in the final ~2–3 weeks)
 
 ---
 
@@ -258,38 +259,32 @@ Block order (morning vs evening) doesn't matter — what matters is treating the
 |---|---|
 | Total content | 1,580 hours |
 | Daily schedule | 5 hrs ML + 3 hrs DSA = 8 hrs/day |
-| Days/week | 7 |
-| Effective weekly hours | 56 hrs/week (35 ML + 21 DSA) |
-| **Total time (set by the ML track bottleneck)** | **~38.3 weeks (~8.8 months)** |
+| Days/week | 6 (Sunday off) |
+| Effective weekly hours | 48 hrs/week (30 ML + 18 DSA) |
+| **Total time (set by the ML track bottleneck)** | **~44.7 weeks (~10.3 months)** |
 | Buffer | None — calendar time equals study time |
-| Aggressive floor (DSA freed hours reallocated to ML) | **~30–32 weeks (~7 months)** |
+| Aggressive floor (DSA freed hours reallocated to ML) | **~38–40 weeks (~9 months)** |
 
 **Compared to the earlier versions:**
-- The 6-days/week version (48 hrs/wk) finished in ~44.7 weeks pure study.
-- This 7-days/week version (56 hrs/wk) finishes in **~38.3 weeks** — about **6.4 weeks (~1.5 months) faster**, purely from grinding the seventh day.
-- Against the original 28 hrs/week plan (~56.4 weeks), this is roughly **18 weeks (~4 months) faster**.
+- The original 28 hrs/week plan finished in ~56.4 weeks pure study.
+- This 48 hrs/week version finishes in **~44.7 weeks** — about **12 weeks (~2.7 months) faster**, purely from the jump to 48 hrs/week.
+- The difference now vs. the old plan's stated timeline is that there's **no 15–20% buffer**: with no exams, breaks, or off-weeks, the ~44.7-week study figure *is* your calendar finish, instead of stretching to 52–54 weeks.
 
-If you reallocate DSA's freed maintenance-mode hours into the ML track once core DSA wraps around week 9.5, completion compresses toward the ~30–32 week floor.
+If you reallocate DSA's freed maintenance-mode hours into the ML track once core DSA wraps around week 11, completion compresses toward the ~38–40 week floor.
 
 ---
 
 ## How to Sequence This Realistically
 
-1. **Weeks 0–9.5 — Dual intensive phase.** Full 5h ML + 3h DSA every single day. ML moves through Phases 0 → 1 → 2 and starts Phase 4. DSA runs its full core curriculum (Phase 3) and finishes around week 9.5.
+1. **Weeks 0–11ish — Dual intensive phase.** Full 5h ML + 3h DSA every scheduled day. ML moves through Phases 0 → 1 → 2 and starts Phase 4. DSA runs its full core curriculum (Phase 3) and finishes around week 11.
 2. **Once core DSA is done — switch DSA to maintenance mode.** A few problems a week, not 3 hrs/day. Either rest that block, go deeper on ML, or reallocate it to move faster through the ML track — your call.
 3. **Phases 4–6 (ML)** are sequential; each builds directly on the last.
 4. **Phase 7 (MLOps)** should be your fastest ML phase relative to hours budgeted — your existing backend/deployment instincts (Socket.IO, auth, transactions, Drive integration) transfer almost directly.
 5. **Phase 8 (Big Data)** can be deferred or trimmed if you're optimizing specifically for Data Scientist roles over ML Engineer roles.
 6. **Phase 9 (Statistics/A-B Testing)** matters more if you're leaning Data Scientist; **Phases 7–8 (MLOps/Big Data)** matter more if you're leaning ML Engineer. Weight remaining hours toward whichever you enjoy more once you've got a feel for it.
 7. **Phase 11 (Portfolio)** should start as soon as Phase 4 ends.
-8. **Final ~2 weeks (Phase 12).** DSA ramps back up to full 3 hrs/day for mock interviews, in parallel with the ML-side interview prep (breadth/depth, system design mocks, behavioral, take-homes). This is the only other stretch besides weeks 0–9.5 where DSA gets full daily time.
+8. **Final ~2–3 weeks (Phase 12).** DSA ramps back up to full 3 hrs/day for mock interviews, in parallel with the ML-side interview prep (breadth/depth, system design mocks, behavioral, take-homes). This is the only other stretch besides weeks 0–11 where DSA gets full daily time.
 
 ---
 
-## One Honest Caveat About Zero Rest Days
-
-This plan finishes faster because there's no slack in it. That's also its single biggest risk: 56 hours/week with no day off for ~9 months straight has no buffer to absorb a sick day, a bad week, or accumulating fatigue — and fatigue quietly lowers retention, so a burned-out hour is worth less than a fresh one. You don't have to schedule a "rest day," but build the recovery *into* the system instead: the DSA maintenance-mode window (weeks ~9.5–36) is where roughly 2 of your 3 daily DSA hours come free. Spending some of that recovered time on actual rest rather than more ML will almost certainly get you to the finish line faster and sharper than treating all 56 hours as sacred. Grind hard, but track how retention holds up — if recall starts slipping, that's the data telling you to spend some of the freed DSA block on sleep, not LeetCode.
-
----
-
-*This is a living plan — log actual hours per topic as you go. The DSA maintenance-mode gap (roughly weeks 9.5–36) is the part most likely to get neglected in practice — protect at least a token weekly DSA slot there, even if it's just 2–3 problems, so Phase 12's mock-interview ramp-up isn't starting from zero.*
+*This is a living plan — log actual hours per topic as you go. The DSA maintenance-mode gap (roughly weeks 11–42) is the part most likely to get neglected in practice — protect at least a token weekly DSA slot there, even if it's just 2–3 problems, so Phase 12's mock-interview ramp-up isn't starting from zero. Keep Sunday genuinely off — it's the only buffer in this plan, and that's what makes 6 days of grinding sustainable for 10 months.*
